@@ -85,4 +85,4 @@ Find a complete [logfile](logfile.md) after reading a Credit Card with the app w
 
 ## License
 
-Talk to your Credit Card Part 7 is available under the MIT license. See the LICENSE.md file for more info.
+Talk to your Credit Card Part 7 is available under the MIT license. See the LICENSE.md file for more info. 
